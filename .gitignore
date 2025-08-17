@@ -1,0 +1,22 @@
+# Virtual environment
+.env/
+.venv/
+
+# TensorFlow / Keras checkpoints / model files
+*.h5
+*.ckpt
+
+# Dataset folders (if large)
+train/
+test/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
